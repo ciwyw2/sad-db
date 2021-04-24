@@ -1,9 +1,9 @@
 # 15-445 Database
 https://15445.courses.cs.cmu.edu
+
 Finished:
-- Ubuntu 虚拟机
-- WSL 配置完毕
-- 完成Project 0:C++ primer
-   - 代码编写
-   - test
-   - format
+- project0:100分
+- project1:100分
+- project2:100分
+- project3:85分
+- project4:50分
