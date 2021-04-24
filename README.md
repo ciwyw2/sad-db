@@ -1,4 +1,4 @@
-# 15-445 Database
+# 15-445 Bustub
 https://15445.courses.cs.cmu.edu
 
 Finished:
